@@ -1,2 +1,5 @@
 1. [Fantastic Design Patterns Resource](https://www.patterns.dev/)
 2. [Great CSS learning resource](https://web.dev/learn/css/box-model/)
+3. [Unix Complete Reference](http://160592857366.free.fr/joe/ebooks/ShareData/UNIX%20-%20The%20Complete%20Reference%202e.pdf)
+4. [Open Data Structures](https://opendatastructures.org/)
+5. [Essential Algorithms](https://www.programming-books.io/essential/algorithms/)
