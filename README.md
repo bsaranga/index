@@ -16,3 +16,6 @@
 
 ## Networks
 1. [Network Protocols with Wireshark](https://gaia.cs.umass.edu/kurose_ross/wireshark.php?fbclid=IwAR0m-XqJBGarMW_MiIvnq6k52sN-ztUGJ57OvmA8ldkTvVKA_QqY4LytX58)
+
+## Microservices
+1. [Loosely coupled applications with MassTransit & RabbitMQ](https://vimeo.com/131635506)
