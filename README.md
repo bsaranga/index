@@ -13,3 +13,6 @@
 3. [Entity Framework Core: HasValueGenerator using C#](https://social.technet.microsoft.com/wiki/contents/articles/53858.entity-framework-core-hasvaluegenerator-using-c.aspx)
 4. [Automatic CreatedAt and UpdatedAt fields OnModelCreating() in ef6](https://stackoverflow.com/questions/45429719/automatic-createdat-and-updatedat-fields-onmodelcreating-in-ef6/45430820)
 5. [EF Core: Built in Created and Edited timestamps](https://entityframeworkcore.com/knowledge-base/46927542/ef-core--built-in-created-and-edited-timestamps)
+
+## Networks
+1. [Network Protocols with Wireshark](https://gaia.cs.umass.edu/kurose_ross/wireshark.php?fbclid=IwAR0m-XqJBGarMW_MiIvnq6k52sN-ztUGJ57OvmA8ldkTvVKA_QqY4LytX58)
