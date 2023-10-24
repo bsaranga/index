@@ -19,3 +19,10 @@
 
 ## Microservices
 1. [Loosely coupled applications with MassTransit & RabbitMQ](https://vimeo.com/131635506)
+
+## Absolutely Best Youtube Channels
+1. [Carnegie Mellon University - Computer Science / Computer Organization (pretty low level)](https://www.youtube.com/playlist?list=PLbY-cFJNzq7z_tQGq-rxtq_n2QQDf5vnM)
+2. [Computer Architecture by CMU](https://www.youtube.com/@CMUCompArch/playlists)
+3. [Berkeley Databases _VERY GOOD STUFF_](https://www.youtube.com/@CS186Berkeley/playlists)
+4. [My Code School _a good mix of C/C++ programming and algorithms/datastructures_](https://www.youtube.com/@mycodeschool/featured)
+5. 
