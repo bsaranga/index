@@ -25,4 +25,4 @@
 2. [Computer Architecture by CMU](https://www.youtube.com/@CMUCompArch/playlists)
 3. [Berkeley Databases _VERY GOOD STUFF_](https://www.youtube.com/@CS186Berkeley/playlists)
 4. [My Code School _a good mix of C/C++ programming and algorithms/datastructures_](https://www.youtube.com/@mycodeschool/featured)
-5. 
+5. [Math Talent _SERIOUSLY UNDERRATED_](https://www.youtube.com/@mathtalent)
